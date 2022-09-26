@@ -1,0 +1,3014 @@
+{
+	"textures": [
+		{
+			"image": "treesFrontAnim-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1811,
+				"h": 1956
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "trees_front41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front99.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 302,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front98.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 302,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 603,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front97.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 603,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 904,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front96.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 904,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 1205,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front95.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 1205,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front94.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 653,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front93.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 653,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 302,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front92.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 302,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 604,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front91.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 604,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 906,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front90.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 906,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1208,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front89.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1208,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1510,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front88.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1510,
+						"y": 653,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 1305,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front87.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 1305,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 303,
+						"y": 1305,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 650
+					},
+					"frame": {
+						"x": 303,
+						"y": 1305,
+						"w": 299,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 650
+					},
+					"frame": {
+						"x": 604,
+						"y": 1305,
+						"w": 298,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 650
+					},
+					"frame": {
+						"x": 604,
+						"y": 1305,
+						"w": 298,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 650
+					},
+					"frame": {
+						"x": 904,
+						"y": 1305,
+						"w": 298,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 650
+					},
+					"frame": {
+						"x": 904,
+						"y": 1305,
+						"w": 298,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 650
+					},
+					"frame": {
+						"x": 1204,
+						"y": 1305,
+						"w": 298,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 650
+					},
+					"frame": {
+						"x": 1204,
+						"y": 1305,
+						"w": 298,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 650
+					},
+					"frame": {
+						"x": 1504,
+						"y": 1305,
+						"w": 298,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 650
+					},
+					"frame": {
+						"x": 1504,
+						"y": 1305,
+						"w": 298,
+						"h": 650
+					}
+				}
+			]
+		},
+		{
+			"image": "treesFrontAnim-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1818,
+				"h": 1957
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "trees_front0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front140.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front54.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 298,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front86.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 298,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front55.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 600,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front85.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 600,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front56.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 902,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front84.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 902,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front57.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1204,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front83.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1204,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front58.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front82.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 650
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1,
+						"w": 300,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front59.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front81.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front60.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 304,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front80.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 304,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front61.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 607,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front79.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 607,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front62.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 910,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front78.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 910,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front63.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1213,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front77.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1213,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front64.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1516,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front76.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1516,
+						"y": 654,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front65.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front75.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front66.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 304,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front74.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 304,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front67.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 607,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front73.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 607,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front68.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 910,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front72.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 910,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front69.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front71.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				},
+				{
+					"filename": "trees_front70.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 650
+					},
+					"frame": {
+						"x": 1516,
+						"y": 1306,
+						"w": 301,
+						"h": 650
+					}
+				}
+			]
+		},
+		{
+			"image": "treesFrontAnim-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1795,
+				"h": 1959
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "trees_front1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front139.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 298,
+						"y": 1,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front130.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 298,
+						"y": 1,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 596,
+						"y": 1,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 596,
+						"y": 1,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 896,
+						"y": 1,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 896,
+						"y": 1,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 1196,
+						"y": 1,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 1196,
+						"y": 1,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 654,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 654,
+						"w": 298,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 301,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front129.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 301,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 599,
+						"y": 654,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 599,
+						"y": 654,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 898,
+						"y": 654,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 898,
+						"y": 654,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 1197,
+						"y": 654,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 1197,
+						"y": 654,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 1496,
+						"y": 654,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 1496,
+						"y": 654,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 300,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 300,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 599,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 599,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 898,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 898,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 1197,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 651
+					},
+					"frame": {
+						"x": 1197,
+						"y": 1307,
+						"w": 297,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				}
+			]
+		},
+		{
+			"image": "treesFrontAnim-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1786,
+				"h": 1959
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "trees_front131.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front132.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 298,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 298,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front133.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 595,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 595,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front134.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 892,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 892,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front135.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1189,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1189,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front136.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1486,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1486,
+						"y": 1,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front137.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 654,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 654,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front138.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 298,
+						"y": 654,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 651
+					},
+					"frame": {
+						"x": 298,
+						"y": 654,
+						"w": 295,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 595,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front128.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 595,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 893,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 893,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front121.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1191,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1191,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front122.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1489,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1489,
+						"y": 654,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front123.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front124.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 299,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 299,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front125.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 597,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 597,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front126.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 895,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 895,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front127.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1193,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				},
+				{
+					"filename": "trees_front13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 651
+					},
+					"frame": {
+						"x": 1193,
+						"y": 1307,
+						"w": 296,
+						"h": 651
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bf2a64396c776bb7da3e751a302da1a2:2e401377c0a3b6a48d295b78af8ca0c1:8024932f0e187124845a9150ad7acd10$"
+	}
+}

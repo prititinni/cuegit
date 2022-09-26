@@ -1,0 +1,3876 @@
+{
+	"textures": [
+		{
+			"image": "treeShake-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1990,
+				"h": 1867
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "treeShake106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 48,
+						"w": 282,
+						"h": 463
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 282,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 48,
+						"w": 282,
+						"h": 463
+					},
+					"frame": {
+						"x": 285,
+						"y": 1,
+						"w": 282,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 48,
+						"w": 282,
+						"h": 463
+					},
+					"frame": {
+						"x": 569,
+						"y": 1,
+						"w": 282,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 48,
+						"w": 282,
+						"h": 463
+					},
+					"frame": {
+						"x": 853,
+						"y": 1,
+						"w": 282,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 48,
+						"w": 282,
+						"h": 463
+					},
+					"frame": {
+						"x": 1137,
+						"y": 1,
+						"w": 282,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake85.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 48,
+						"w": 282,
+						"h": 463
+					},
+					"frame": {
+						"x": 1421,
+						"y": 1,
+						"w": 282,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 48,
+						"w": 283,
+						"h": 463
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1,
+						"w": 283,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 47,
+						"w": 282,
+						"h": 464
+					},
+					"frame": {
+						"x": 1,
+						"y": 466,
+						"w": 282,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake121.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 47,
+						"w": 282,
+						"h": 464
+					},
+					"frame": {
+						"x": 285,
+						"y": 466,
+						"w": 282,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake84.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 47,
+						"w": 282,
+						"h": 464
+					},
+					"frame": {
+						"x": 569,
+						"y": 466,
+						"w": 282,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake86.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 47,
+						"w": 282,
+						"h": 464
+					},
+					"frame": {
+						"x": 853,
+						"y": 466,
+						"w": 282,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 47,
+						"w": 283,
+						"h": 464
+					},
+					"frame": {
+						"x": 1137,
+						"y": 466,
+						"w": 283,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 47,
+						"w": 283,
+						"h": 464
+					},
+					"frame": {
+						"x": 1422,
+						"y": 466,
+						"w": 283,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1707,
+						"y": 466,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake60.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1707,
+						"y": 466,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake59.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1705,
+						"y": 933,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 1400,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 281,
+						"h": 466
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1400,
+						"w": 281,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 281,
+						"h": 466
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1400,
+						"w": 281,
+						"h": 466
+					}
+				}
+			]
+		},
+		{
+			"image": "treeShake-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1988,
+				"h": 1868
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "treeShake2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake58.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake57.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake56.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake55.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1705,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1705,
+						"y": 468,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake54.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake61.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1705,
+						"y": 935,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake62.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 1402,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake63.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 285,
+						"y": 1402,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake64.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 569,
+						"y": 1402,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake65.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 853,
+						"y": 1402,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake66.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1137,
+						"y": 1402,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake67.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1421,
+						"y": 1402,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake68.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1402,
+						"w": 282,
+						"h": 465
+					}
+				}
+			]
+		},
+		{
+			"image": "treeShake-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1996,
+				"h": 1874
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "treeShake69.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 46,
+						"w": 282,
+						"h": 466
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 282,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake70.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 46,
+						"w": 282,
+						"h": 466
+					},
+					"frame": {
+						"x": 285,
+						"y": 1,
+						"w": 282,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake71.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 46,
+						"w": 281,
+						"h": 466
+					},
+					"frame": {
+						"x": 569,
+						"y": 1,
+						"w": 281,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake72.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 46,
+						"w": 282,
+						"h": 466
+					},
+					"frame": {
+						"x": 852,
+						"y": 1,
+						"w": 282,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake73.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1136,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake74.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1420,
+						"y": 1,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake75.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 47,
+						"w": 287,
+						"h": 464
+					},
+					"frame": {
+						"x": 1704,
+						"y": 1,
+						"w": 287,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake76.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 48,
+						"w": 289,
+						"h": 463
+					},
+					"frame": {
+						"x": 1,
+						"y": 469,
+						"w": 289,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake77.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 47,
+						"w": 284,
+						"h": 464
+					},
+					"frame": {
+						"x": 292,
+						"y": 469,
+						"w": 284,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake78.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 578,
+						"y": 469,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake79.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 862,
+						"y": 469,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake80.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 46,
+						"w": 282,
+						"h": 466
+					},
+					"frame": {
+						"x": 1146,
+						"y": 469,
+						"w": 282,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake81.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 46,
+						"w": 281,
+						"h": 466
+					},
+					"frame": {
+						"x": 1430,
+						"y": 469,
+						"w": 281,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake82.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 46,
+						"w": 282,
+						"h": 466
+					},
+					"frame": {
+						"x": 1713,
+						"y": 469,
+						"w": 282,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake83.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 281,
+						"h": 466
+					},
+					"frame": {
+						"x": 1,
+						"y": 937,
+						"w": 281,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake87.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 281,
+						"h": 466
+					},
+					"frame": {
+						"x": 284,
+						"y": 937,
+						"w": 281,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake88.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 46,
+						"w": 282,
+						"h": 466
+					},
+					"frame": {
+						"x": 567,
+						"y": 937,
+						"w": 282,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake89.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 46,
+						"w": 281,
+						"h": 466
+					},
+					"frame": {
+						"x": 851,
+						"y": 937,
+						"w": 281,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake90.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 46,
+						"w": 282,
+						"h": 466
+					},
+					"frame": {
+						"x": 1134,
+						"y": 937,
+						"w": 282,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake91.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1418,
+						"y": 937,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake92.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 1702,
+						"y": 937,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake93.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 47,
+						"w": 284,
+						"h": 464
+					},
+					"frame": {
+						"x": 1,
+						"y": 1405,
+						"w": 284,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake96.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 46,
+						"w": 282,
+						"h": 465
+					},
+					"frame": {
+						"x": 287,
+						"y": 1405,
+						"w": 282,
+						"h": 465
+					}
+				},
+				{
+					"filename": "treeShake99.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 46,
+						"w": 281,
+						"h": 466
+					},
+					"frame": {
+						"x": 571,
+						"y": 1405,
+						"w": 281,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 46,
+						"w": 282,
+						"h": 466
+					},
+					"frame": {
+						"x": 854,
+						"y": 1405,
+						"w": 282,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 46,
+						"w": 285,
+						"h": 466
+					},
+					"frame": {
+						"x": 1138,
+						"y": 1405,
+						"w": 285,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake123.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 46,
+						"w": 283,
+						"h": 468
+					},
+					"frame": {
+						"x": 1425,
+						"y": 1405,
+						"w": 283,
+						"h": 468
+					}
+				},
+				{
+					"filename": "treeShake124.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 281,
+						"h": 468
+					},
+					"frame": {
+						"x": 1710,
+						"y": 1405,
+						"w": 281,
+						"h": 468
+					}
+				}
+			]
+		},
+		{
+			"image": "treeShake-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2016,
+				"h": 1881
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "treeShake127.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake129.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 289,
+						"y": 1,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake136.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 577,
+						"y": 1,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake137.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 865,
+						"y": 1,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake142.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 1153,
+						"y": 1,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake146.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 1441,
+						"y": 1,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake147.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake148.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 470,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake153.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 289,
+						"y": 470,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake154.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 577,
+						"y": 470,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake155.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 865,
+						"y": 470,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake156.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 467
+					},
+					"frame": {
+						"x": 1153,
+						"y": 470,
+						"w": 286,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake143.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 468
+					},
+					"frame": {
+						"x": 1441,
+						"y": 470,
+						"w": 286,
+						"h": 468
+					}
+				},
+				{
+					"filename": "treeShake161.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 468
+					},
+					"frame": {
+						"x": 1729,
+						"y": 470,
+						"w": 286,
+						"h": 468
+					}
+				},
+				{
+					"filename": "treeShake162.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 468
+					},
+					"frame": {
+						"x": 1,
+						"y": 940,
+						"w": 286,
+						"h": 468
+					}
+				},
+				{
+					"filename": "treeShake163.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 289,
+						"y": 940,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake164.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 577,
+						"y": 940,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake165.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 865,
+						"y": 940,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake166.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 1153,
+						"y": 940,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake167.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 1441,
+						"y": 940,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake172.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 1729,
+						"y": 940,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake173.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 1,
+						"y": 1411,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake174.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 289,
+						"y": 1411,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake175.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 577,
+						"y": 1411,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake176.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 865,
+						"y": 1411,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake177.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 1153,
+						"y": 1411,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake178.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 1441,
+						"y": 1411,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake179.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1411,
+						"w": 286,
+						"h": 469
+					}
+				}
+			]
+		},
+		{
+			"image": "treeShake-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2018,
+				"h": 1891
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "treeShake125.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 46,
+						"w": 282,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 282,
+						"h": 480
+					}
+				},
+				{
+					"filename": "treeShake180.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 469
+					},
+					"frame": {
+						"x": 285,
+						"y": 1,
+						"w": 286,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake144.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 470
+					},
+					"frame": {
+						"x": 573,
+						"y": 1,
+						"w": 286,
+						"h": 470
+					}
+				},
+				{
+					"filename": "treeShake145.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 470
+					},
+					"frame": {
+						"x": 861,
+						"y": 1,
+						"w": 286,
+						"h": 470
+					}
+				},
+				{
+					"filename": "treeShake128.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 474
+					},
+					"frame": {
+						"x": 1149,
+						"y": 1,
+						"w": 286,
+						"h": 474
+					}
+				},
+				{
+					"filename": "treeShake130.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 289,
+						"h": 467
+					},
+					"frame": {
+						"x": 1437,
+						"y": 1,
+						"w": 289,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake138.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 289,
+						"h": 467
+					},
+					"frame": {
+						"x": 1728,
+						"y": 1,
+						"w": 289,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake149.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 289,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 483,
+						"w": 289,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake157.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 289,
+						"h": 467
+					},
+					"frame": {
+						"x": 292,
+						"y": 483,
+						"w": 289,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake168.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 289,
+						"h": 469
+					},
+					"frame": {
+						"x": 583,
+						"y": 483,
+						"w": 289,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake122.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 293,
+						"h": 466
+					},
+					"frame": {
+						"x": 874,
+						"y": 483,
+						"w": 293,
+						"h": 466
+					}
+				},
+				{
+					"filename": "treeShake131.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 293,
+						"h": 467
+					},
+					"frame": {
+						"x": 1169,
+						"y": 483,
+						"w": 293,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake139.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 293,
+						"h": 467
+					},
+					"frame": {
+						"x": 1464,
+						"y": 483,
+						"w": 293,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake150.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 293,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 954,
+						"w": 293,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake158.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 293,
+						"h": 467
+					},
+					"frame": {
+						"x": 296,
+						"y": 954,
+						"w": 293,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake140.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 467
+					},
+					"frame": {
+						"x": 591,
+						"y": 954,
+						"w": 294,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake141.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 467
+					},
+					"frame": {
+						"x": 887,
+						"y": 954,
+						"w": 294,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake151.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 467
+					},
+					"frame": {
+						"x": 1183,
+						"y": 954,
+						"w": 294,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake152.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 467
+					},
+					"frame": {
+						"x": 1479,
+						"y": 954,
+						"w": 294,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake159.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 1423,
+						"w": 294,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake160.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 467
+					},
+					"frame": {
+						"x": 297,
+						"y": 1423,
+						"w": 294,
+						"h": 467
+					}
+				},
+				{
+					"filename": "treeShake104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 48,
+						"w": 295,
+						"h": 463
+					},
+					"frame": {
+						"x": 593,
+						"y": 1423,
+						"w": 295,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake94.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 48,
+						"w": 295,
+						"h": 463
+					},
+					"frame": {
+						"x": 890,
+						"y": 1423,
+						"w": 295,
+						"h": 463
+					}
+				},
+				{
+					"filename": "treeShake95.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 47,
+						"w": 297,
+						"h": 464
+					},
+					"frame": {
+						"x": 1187,
+						"y": 1423,
+						"w": 297,
+						"h": 464
+					}
+				},
+				{
+					"filename": "treeShake103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 298,
+						"h": 464
+					},
+					"frame": {
+						"x": 1486,
+						"y": 1423,
+						"w": 298,
+						"h": 464
+					}
+				}
+			]
+		},
+		{
+			"image": "treeShake-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2029,
+				"h": 1013
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "treeShake97.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 46,
+						"w": 282,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 282,
+						"h": 480
+					}
+				},
+				{
+					"filename": "treeShake169.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 293,
+						"h": 469
+					},
+					"frame": {
+						"x": 285,
+						"y": 1,
+						"w": 293,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 46,
+						"w": 286,
+						"h": 482
+					},
+					"frame": {
+						"x": 580,
+						"y": 1,
+						"w": 286,
+						"h": 482
+					}
+				},
+				{
+					"filename": "treeShake170.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 469
+					},
+					"frame": {
+						"x": 868,
+						"y": 1,
+						"w": 294,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake171.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 469
+					},
+					"frame": {
+						"x": 1164,
+						"y": 1,
+						"w": 294,
+						"h": 469
+					}
+				},
+				{
+					"filename": "treeShake112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 46,
+						"w": 282,
+						"h": 495
+					},
+					"frame": {
+						"x": 1460,
+						"y": 1,
+						"w": 282,
+						"h": 495
+					}
+				},
+				{
+					"filename": "treeShake116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 284,
+						"h": 494
+					},
+					"frame": {
+						"x": 1744,
+						"y": 1,
+						"w": 284,
+						"h": 494
+					}
+				},
+				{
+					"filename": "treeShake126.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 493
+					},
+					"frame": {
+						"x": 1,
+						"y": 498,
+						"w": 286,
+						"h": 493
+					}
+				},
+				{
+					"filename": "treeShake98.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 46,
+						"w": 282,
+						"h": 506
+					},
+					"frame": {
+						"x": 289,
+						"y": 498,
+						"w": 282,
+						"h": 506
+					}
+				},
+				{
+					"filename": "treeShake134.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 499
+					},
+					"frame": {
+						"x": 573,
+						"y": 498,
+						"w": 286,
+						"h": 499
+					}
+				},
+				{
+					"filename": "treeShake132.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 487
+					},
+					"frame": {
+						"x": 861,
+						"y": 498,
+						"w": 294,
+						"h": 487
+					}
+				},
+				{
+					"filename": "treeShake113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 46,
+						"w": 282,
+						"h": 510
+					},
+					"frame": {
+						"x": 1157,
+						"y": 498,
+						"w": 282,
+						"h": 510
+					}
+				},
+				{
+					"filename": "treeShake135.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 286,
+						"h": 510
+					},
+					"frame": {
+						"x": 1441,
+						"y": 498,
+						"w": 286,
+						"h": 510
+					}
+				},
+				{
+					"filename": "treeShake133.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 562
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 46,
+						"w": 294,
+						"h": 514
+					},
+					"frame": {
+						"x": 1729,
+						"y": 498,
+						"w": 294,
+						"h": 514
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:db4e758bf81cd5112211dc4915753e2d:8204e138943aa0855fd0805e8b6a1149:32823d7412d5a609cbdf571319aa27ef$"
+	}
+}

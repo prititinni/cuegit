@@ -1,0 +1,377 @@
+{
+	"textures": [
+		{
+			"image": "leverAnim-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 123,
+				"h": 215
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lever0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 609,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "lever1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 610,
+						"w": 39,
+						"h": 42
+					},
+					"frame": {
+						"x": 42,
+						"y": 1,
+						"w": 39,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lever2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 611,
+						"w": 39,
+						"h": 41
+					},
+					"frame": {
+						"x": 83,
+						"y": 1,
+						"w": 39,
+						"h": 41
+					}
+				},
+				{
+					"filename": "lever3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 613,
+						"w": 39,
+						"h": 39
+					},
+					"frame": {
+						"x": 1,
+						"y": 46,
+						"w": 39,
+						"h": 39
+					}
+				},
+				{
+					"filename": "lever4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 617,
+						"w": 39,
+						"h": 35
+					},
+					"frame": {
+						"x": 42,
+						"y": 46,
+						"w": 39,
+						"h": 35
+					}
+				},
+				{
+					"filename": "lever5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 620,
+						"w": 39,
+						"h": 32
+					},
+					"frame": {
+						"x": 83,
+						"y": 46,
+						"w": 39,
+						"h": 32
+					}
+				},
+				{
+					"filename": "lever6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 624,
+						"w": 39,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 87,
+						"w": 39,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lever7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 628,
+						"w": 39,
+						"h": 25
+					},
+					"frame": {
+						"x": 42,
+						"y": 87,
+						"w": 39,
+						"h": 25
+					}
+				},
+				{
+					"filename": "lever8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 633,
+						"w": 39,
+						"h": 24
+					},
+					"frame": {
+						"x": 83,
+						"y": 87,
+						"w": 39,
+						"h": 24
+					}
+				},
+				{
+					"filename": "lever9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 637,
+						"w": 39,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 117,
+						"w": 39,
+						"h": 24
+					}
+				},
+				{
+					"filename": "lever10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 641,
+						"w": 39,
+						"h": 25
+					},
+					"frame": {
+						"x": 42,
+						"y": 117,
+						"w": 39,
+						"h": 25
+					}
+				},
+				{
+					"filename": "lever11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 645,
+						"w": 39,
+						"h": 25
+					},
+					"frame": {
+						"x": 83,
+						"y": 117,
+						"w": 39,
+						"h": 25
+					}
+				},
+				{
+					"filename": "lever12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 645,
+						"w": 39,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 144,
+						"w": 39,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lever13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 645,
+						"w": 39,
+						"h": 31
+					},
+					"frame": {
+						"x": 42,
+						"y": 144,
+						"w": 39,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lever14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 645,
+						"w": 39,
+						"h": 33
+					},
+					"frame": {
+						"x": 83,
+						"y": 144,
+						"w": 39,
+						"h": 33
+					}
+				},
+				{
+					"filename": "lever15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 645,
+						"w": 39,
+						"h": 35
+					},
+					"frame": {
+						"x": 1,
+						"y": 179,
+						"w": 39,
+						"h": 35
+					}
+				},
+				{
+					"filename": "lever16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 645,
+						"w": 39,
+						"h": 35
+					},
+					"frame": {
+						"x": 42,
+						"y": 179,
+						"w": 39,
+						"h": 35
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:77c71b9510dfd2ec1fe0cab31fb41621:e61f2615ac1cd3345aad7f0815c5ea24:a5111d2a42594cc52a1cbdbd9032c99c$"
+	}
+}
