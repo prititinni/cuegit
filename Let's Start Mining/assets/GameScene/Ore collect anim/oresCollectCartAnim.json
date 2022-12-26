@@ -1,0 +1,713 @@
+{
+	"textures": [
+		{
+			"image": "oresCollectCartAnim.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 179,
+				"h": 808
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "oresCollectCart16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 181,
+						"w": 88,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 88,
+						"h": 87
+					}
+				},
+				{
+					"filename": "oresCollectCart12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 180,
+						"w": 87,
+						"h": 88
+					},
+					"frame": {
+						"x": 91,
+						"y": 1,
+						"w": 87,
+						"h": 88
+					}
+				},
+				{
+					"filename": "oresCollectCart21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 186,
+						"w": 88,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 88,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 181,
+						"w": 87,
+						"h": 87
+					},
+					"frame": {
+						"x": 91,
+						"y": 91,
+						"w": 87,
+						"h": 87
+					}
+				},
+				{
+					"filename": "oresCollectCart13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 181,
+						"w": 87,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 174,
+						"w": 87,
+						"h": 87
+					}
+				},
+				{
+					"filename": "oresCollectCart14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 181,
+						"w": 87,
+						"h": 87
+					},
+					"frame": {
+						"x": 90,
+						"y": 180,
+						"w": 87,
+						"h": 87
+					}
+				},
+				{
+					"filename": "oresCollectCart10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 182,
+						"w": 87,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 263,
+						"w": 87,
+						"h": 86
+					}
+				},
+				{
+					"filename": "oresCollectCart15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 182,
+						"w": 87,
+						"h": 86
+					},
+					"frame": {
+						"x": 90,
+						"y": 269,
+						"w": 87,
+						"h": 86
+					}
+				},
+				{
+					"filename": "oresCollectCart17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 182,
+						"w": 87,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 351,
+						"w": 87,
+						"h": 86
+					}
+				},
+				{
+					"filename": "oresCollectCart18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 184,
+						"w": 87,
+						"h": 84
+					},
+					"frame": {
+						"x": 90,
+						"y": 357,
+						"w": 87,
+						"h": 84
+					}
+				},
+				{
+					"filename": "oresCollectCart19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 186,
+						"w": 87,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 439,
+						"w": 87,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 186,
+						"w": 87,
+						"h": 82
+					},
+					"frame": {
+						"x": 90,
+						"y": 443,
+						"w": 87,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 186,
+						"w": 87,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 523,
+						"w": 87,
+						"h": 82
+					}
+				},
+				{
+					"filename": "oresCollectCart8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 190,
+						"w": 87,
+						"h": 78
+					},
+					"frame": {
+						"x": 90,
+						"y": 527,
+						"w": 87,
+						"h": 78
+					}
+				},
+				{
+					"filename": "oresCollectCart7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 195,
+						"w": 87,
+						"h": 73
+					},
+					"frame": {
+						"x": 1,
+						"y": 607,
+						"w": 87,
+						"h": 73
+					}
+				},
+				{
+					"filename": "oresCollectCart6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 200,
+						"w": 87,
+						"h": 68
+					},
+					"frame": {
+						"x": 90,
+						"y": 607,
+						"w": 87,
+						"h": 68
+					}
+				},
+				{
+					"filename": "oresCollectCart5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 203,
+						"w": 87,
+						"h": 65
+					},
+					"frame": {
+						"x": 90,
+						"y": 677,
+						"w": 87,
+						"h": 65
+					}
+				},
+				{
+					"filename": "oresCollectCart3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 205,
+						"w": 87,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 682,
+						"w": 87,
+						"h": 63
+					}
+				},
+				{
+					"filename": "oresCollectCart4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 205,
+						"w": 87,
+						"h": 63
+					},
+					"frame": {
+						"x": 90,
+						"y": 744,
+						"w": 87,
+						"h": 63
+					}
+				},
+				{
+					"filename": "oresCollectCart0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 211,
+						"w": 87,
+						"h": 57
+					},
+					"frame": {
+						"x": 1,
+						"y": 747,
+						"w": 87,
+						"h": 57
+					}
+				},
+				{
+					"filename": "oresCollectCart1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 211,
+						"w": 87,
+						"h": 57
+					},
+					"frame": {
+						"x": 1,
+						"y": 747,
+						"w": 87,
+						"h": 57
+					}
+				},
+				{
+					"filename": "oresCollectCart2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 211,
+						"w": 87,
+						"h": 57
+					},
+					"frame": {
+						"x": 1,
+						"y": 747,
+						"w": 87,
+						"h": 57
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a406fffc218ac78dd136cfce95a42996:b1b19f795830ee9b8fb53e321b765c0f:dc13ee53a050e3c987f89cf37d381805$"
+	}
+}

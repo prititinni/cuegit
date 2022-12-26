@@ -1,0 +1,3044 @@
+{
+	"textures": [
+		{
+			"image": "shovelCorrectAnim.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2030,
+				"h": 1067
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shovelCorrect125.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 76,
+						"w": 169,
+						"h": 177
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 169,
+						"h": 177
+					}
+				},
+				{
+					"filename": "shovelCorrect126.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 76,
+						"w": 169,
+						"h": 177
+					},
+					"frame": {
+						"x": 1,
+						"y": 180,
+						"w": 169,
+						"h": 177
+					}
+				},
+				{
+					"filename": "shovelCorrect127.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 76,
+						"w": 169,
+						"h": 177
+					},
+					"frame": {
+						"x": 172,
+						"y": 1,
+						"w": 169,
+						"h": 177
+					}
+				},
+				{
+					"filename": "shovelCorrect124.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 525,
+						"y": 76,
+						"w": 168,
+						"h": 177
+					},
+					"frame": {
+						"x": 1,
+						"y": 359,
+						"w": 168,
+						"h": 177
+					}
+				},
+				{
+					"filename": "shovelCorrect128.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 76,
+						"w": 169,
+						"h": 176
+					},
+					"frame": {
+						"x": 172,
+						"y": 180,
+						"w": 169,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shovelCorrect129.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 76,
+						"w": 169,
+						"h": 176
+					},
+					"frame": {
+						"x": 343,
+						"y": 1,
+						"w": 169,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shovelCorrect130.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 76,
+						"w": 169,
+						"h": 176
+					},
+					"frame": {
+						"x": 343,
+						"y": 179,
+						"w": 169,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shovelCorrect131.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 76,
+						"w": 169,
+						"h": 176
+					},
+					"frame": {
+						"x": 514,
+						"y": 1,
+						"w": 169,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shovelCorrect132.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 76,
+						"w": 169,
+						"h": 176
+					},
+					"frame": {
+						"x": 514,
+						"y": 179,
+						"w": 169,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shovelCorrect122.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 525,
+						"y": 77,
+						"w": 167,
+						"h": 176
+					},
+					"frame": {
+						"x": 1,
+						"y": 538,
+						"w": 167,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shovelCorrect123.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 525,
+						"y": 77,
+						"w": 167,
+						"h": 176
+					},
+					"frame": {
+						"x": 685,
+						"y": 1,
+						"w": 167,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shovelCorrect133.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 76,
+						"w": 169,
+						"h": 174
+					},
+					"frame": {
+						"x": 854,
+						"y": 1,
+						"w": 169,
+						"h": 174
+					}
+				},
+				{
+					"filename": "shovelCorrect120.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 77,
+						"w": 166,
+						"h": 176
+					},
+					"frame": {
+						"x": 1,
+						"y": 716,
+						"w": 166,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shovelCorrect112.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 530,
+						"y": 80,
+						"w": 161,
+						"h": 172
+					},
+					"frame": {
+						"x": 1,
+						"y": 894,
+						"w": 161,
+						"h": 172
+					}
+				},
+				{
+					"filename": "shovelCorrect121.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 77,
+						"w": 166,
+						"h": 176
+					},
+					"frame": {
+						"x": 685,
+						"y": 179,
+						"w": 166,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shovelCorrect119.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 78,
+						"w": 166,
+						"h": 175
+					},
+					"frame": {
+						"x": 1025,
+						"y": 1,
+						"w": 166,
+						"h": 175
+					}
+				},
+				{
+					"filename": "shovelCorrect117.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 527,
+						"y": 78,
+						"w": 164,
+						"h": 175
+					},
+					"frame": {
+						"x": 1193,
+						"y": 1,
+						"w": 164,
+						"h": 175
+					}
+				},
+				{
+					"filename": "shovelCorrect118.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 527,
+						"y": 78,
+						"w": 164,
+						"h": 175
+					},
+					"frame": {
+						"x": 1359,
+						"y": 1,
+						"w": 164,
+						"h": 175
+					}
+				},
+				{
+					"filename": "shovelCorrect113.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 530,
+						"y": 80,
+						"w": 161,
+						"h": 172
+					},
+					"frame": {
+						"x": 164,
+						"y": 894,
+						"w": 161,
+						"h": 172
+					}
+				},
+				{
+					"filename": "shovelCorrect116.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 528,
+						"y": 79,
+						"w": 163,
+						"h": 174
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1,
+						"w": 163,
+						"h": 174
+					}
+				},
+				{
+					"filename": "shovelCorrect115.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 528,
+						"y": 79,
+						"w": 163,
+						"h": 173
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1,
+						"w": 163,
+						"h": 173
+					}
+				},
+				{
+					"filename": "shovelCorrect114.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 529,
+						"y": 79,
+						"w": 162,
+						"h": 173
+					},
+					"frame": {
+						"x": 1855,
+						"y": 1,
+						"w": 162,
+						"h": 173
+					}
+				},
+				{
+					"filename": "shovelCorrect111.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 531,
+						"y": 80,
+						"w": 160,
+						"h": 171
+					},
+					"frame": {
+						"x": 853,
+						"y": 179,
+						"w": 160,
+						"h": 171
+					}
+				},
+				{
+					"filename": "shovelCorrect110.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 531,
+						"y": 81,
+						"w": 159,
+						"h": 170
+					},
+					"frame": {
+						"x": 1015,
+						"y": 178,
+						"w": 159,
+						"h": 170
+					}
+				},
+				{
+					"filename": "shovelCorrect109.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 531,
+						"y": 81,
+						"w": 159,
+						"h": 169
+					},
+					"frame": {
+						"x": 1176,
+						"y": 178,
+						"w": 159,
+						"h": 169
+					}
+				},
+				{
+					"filename": "shovelCorrect108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 532,
+						"y": 81,
+						"w": 158,
+						"h": 169
+					},
+					"frame": {
+						"x": 1337,
+						"y": 178,
+						"w": 158,
+						"h": 169
+					}
+				},
+				{
+					"filename": "shovelCorrect107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 532,
+						"y": 82,
+						"w": 157,
+						"h": 167
+					},
+					"frame": {
+						"x": 1497,
+						"y": 178,
+						"w": 157,
+						"h": 167
+					}
+				},
+				{
+					"filename": "shovelCorrect106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 533,
+						"y": 82,
+						"w": 156,
+						"h": 166
+					},
+					"frame": {
+						"x": 1656,
+						"y": 177,
+						"w": 156,
+						"h": 166
+					}
+				},
+				{
+					"filename": "shovelCorrect105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 533,
+						"y": 83,
+						"w": 155,
+						"h": 165
+					},
+					"frame": {
+						"x": 1814,
+						"y": 176,
+						"w": 155,
+						"h": 165
+					}
+				},
+				{
+					"filename": "shovelCorrect36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 597,
+						"y": 100,
+						"w": 58,
+						"h": 84
+					},
+					"frame": {
+						"x": 1971,
+						"y": 176,
+						"w": 58,
+						"h": 84
+					}
+				},
+				{
+					"filename": "shovelCorrect4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 611,
+						"y": 75,
+						"w": 58,
+						"h": 81
+					},
+					"frame": {
+						"x": 1971,
+						"y": 262,
+						"w": 58,
+						"h": 81
+					}
+				},
+				{
+					"filename": "shovelCorrect134.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 107,
+						"w": 166,
+						"h": 127
+					},
+					"frame": {
+						"x": 343,
+						"y": 357,
+						"w": 166,
+						"h": 127
+					}
+				},
+				{
+					"filename": "shovelCorrect135.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 107,
+						"w": 166,
+						"h": 127
+					},
+					"frame": {
+						"x": 511,
+						"y": 357,
+						"w": 166,
+						"h": 127
+					}
+				},
+				{
+					"filename": "shovelCorrect136.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 107,
+						"w": 166,
+						"h": 127
+					},
+					"frame": {
+						"x": 679,
+						"y": 357,
+						"w": 166,
+						"h": 127
+					}
+				},
+				{
+					"filename": "shovelCorrect104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 534,
+						"y": 84,
+						"w": 154,
+						"h": 163
+					},
+					"frame": {
+						"x": 170,
+						"y": 538,
+						"w": 154,
+						"h": 163
+					}
+				},
+				{
+					"filename": "shovelCorrect103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 535,
+						"y": 84,
+						"w": 152,
+						"h": 162
+					},
+					"frame": {
+						"x": 326,
+						"y": 486,
+						"w": 152,
+						"h": 162
+					}
+				},
+				{
+					"filename": "shovelCorrect102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 536,
+						"y": 85,
+						"w": 151,
+						"h": 160
+					},
+					"frame": {
+						"x": 480,
+						"y": 486,
+						"w": 151,
+						"h": 160
+					}
+				},
+				{
+					"filename": "shovelCorrect101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 536,
+						"y": 86,
+						"w": 150,
+						"h": 158
+					},
+					"frame": {
+						"x": 633,
+						"y": 486,
+						"w": 150,
+						"h": 158
+					}
+				},
+				{
+					"filename": "shovelCorrect100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 537,
+						"y": 87,
+						"w": 148,
+						"h": 156
+					},
+					"frame": {
+						"x": 785,
+						"y": 486,
+						"w": 148,
+						"h": 156
+					}
+				},
+				{
+					"filename": "shovelCorrect137.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 108,
+						"w": 152,
+						"h": 111
+					},
+					"frame": {
+						"x": 326,
+						"y": 650,
+						"w": 152,
+						"h": 111
+					}
+				},
+				{
+					"filename": "shovelCorrect138.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 108,
+						"w": 152,
+						"h": 111
+					},
+					"frame": {
+						"x": 480,
+						"y": 648,
+						"w": 152,
+						"h": 111
+					}
+				},
+				{
+					"filename": "shovelCorrect139.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 108,
+						"w": 152,
+						"h": 111
+					},
+					"frame": {
+						"x": 634,
+						"y": 646,
+						"w": 152,
+						"h": 111
+					}
+				},
+				{
+					"filename": "shovelCorrect98.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 539,
+						"y": 89,
+						"w": 145,
+						"h": 153
+					},
+					"frame": {
+						"x": 788,
+						"y": 644,
+						"w": 145,
+						"h": 153
+					}
+				},
+				{
+					"filename": "shovelCorrect70.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 72,
+						"w": 99,
+						"h": 129
+					},
+					"frame": {
+						"x": 169,
+						"y": 763,
+						"w": 99,
+						"h": 129
+					}
+				},
+				{
+					"filename": "shovelCorrect140.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 108,
+						"w": 152,
+						"h": 111
+					},
+					"frame": {
+						"x": 270,
+						"y": 763,
+						"w": 152,
+						"h": 111
+					}
+				},
+				{
+					"filename": "shovelCorrect99.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 538,
+						"y": 87,
+						"w": 146,
+						"h": 156
+					},
+					"frame": {
+						"x": 327,
+						"y": 876,
+						"w": 146,
+						"h": 156
+					}
+				},
+				{
+					"filename": "shovelCorrect61.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 575,
+						"y": 64,
+						"w": 100,
+						"h": 132
+					},
+					"frame": {
+						"x": 853,
+						"y": 352,
+						"w": 100,
+						"h": 132
+					}
+				},
+				{
+					"filename": "shovelCorrect62.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 574,
+						"y": 64,
+						"w": 100,
+						"h": 133
+					},
+					"frame": {
+						"x": 955,
+						"y": 352,
+						"w": 100,
+						"h": 133
+					}
+				},
+				{
+					"filename": "shovelCorrect97.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 540,
+						"y": 90,
+						"w": 143,
+						"h": 151
+					},
+					"frame": {
+						"x": 935,
+						"y": 487,
+						"w": 143,
+						"h": 151
+					}
+				},
+				{
+					"filename": "shovelCorrect96.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 541,
+						"y": 91,
+						"w": 141,
+						"h": 149
+					},
+					"frame": {
+						"x": 935,
+						"y": 640,
+						"w": 141,
+						"h": 149
+					}
+				},
+				{
+					"filename": "shovelCorrect69.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 66,
+						"w": 106,
+						"h": 135
+					},
+					"frame": {
+						"x": 1057,
+						"y": 350,
+						"w": 106,
+						"h": 135
+					}
+				},
+				{
+					"filename": "shovelCorrect95.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 543,
+						"y": 92,
+						"w": 138,
+						"h": 147
+					},
+					"frame": {
+						"x": 1080,
+						"y": 487,
+						"w": 138,
+						"h": 147
+					}
+				},
+				{
+					"filename": "shovelCorrect83.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 565,
+						"y": 110,
+						"w": 101,
+						"h": 110
+					},
+					"frame": {
+						"x": 424,
+						"y": 763,
+						"w": 101,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shovelCorrect65.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 571,
+						"y": 65,
+						"w": 108,
+						"h": 133
+					},
+					"frame": {
+						"x": 527,
+						"y": 761,
+						"w": 108,
+						"h": 133
+					}
+				},
+				{
+					"filename": "shovelCorrect94.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 544,
+						"y": 93,
+						"w": 135,
+						"h": 145
+					},
+					"frame": {
+						"x": 637,
+						"y": 759,
+						"w": 135,
+						"h": 145
+					}
+				},
+				{
+					"filename": "shovelCorrect93.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 545,
+						"y": 94,
+						"w": 133,
+						"h": 143
+					},
+					"frame": {
+						"x": 774,
+						"y": 799,
+						"w": 133,
+						"h": 143
+					}
+				},
+				{
+					"filename": "shovelCorrect92.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 547,
+						"y": 96,
+						"w": 130,
+						"h": 140
+					},
+					"frame": {
+						"x": 475,
+						"y": 896,
+						"w": 130,
+						"h": 140
+					}
+				},
+				{
+					"filename": "shovelCorrect91.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 548,
+						"y": 97,
+						"w": 128,
+						"h": 138
+					},
+					"frame": {
+						"x": 607,
+						"y": 906,
+						"w": 128,
+						"h": 138
+					}
+				},
+				{
+					"filename": "shovelCorrect86.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 558,
+						"y": 105,
+						"w": 113,
+						"h": 122
+					},
+					"frame": {
+						"x": 737,
+						"y": 944,
+						"w": 113,
+						"h": 122
+					}
+				},
+				{
+					"filename": "shovelCorrect7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 597,
+						"y": 56,
+						"w": 88,
+						"h": 122
+					},
+					"frame": {
+						"x": 852,
+						"y": 944,
+						"w": 88,
+						"h": 122
+					}
+				},
+				{
+					"filename": "shovelCorrect67.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 62,
+						"w": 115,
+						"h": 139
+					},
+					"frame": {
+						"x": 909,
+						"y": 799,
+						"w": 115,
+						"h": 139
+					}
+				},
+				{
+					"filename": "shovelCorrect87.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 556,
+						"y": 104,
+						"w": 116,
+						"h": 125
+					},
+					"frame": {
+						"x": 942,
+						"y": 940,
+						"w": 116,
+						"h": 125
+					}
+				},
+				{
+					"filename": "shovelCorrect68.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 62,
+						"w": 112,
+						"h": 139
+					},
+					"frame": {
+						"x": 1026,
+						"y": 791,
+						"w": 112,
+						"h": 139
+					}
+				},
+				{
+					"filename": "shovelCorrect90.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 550,
+						"y": 99,
+						"w": 124,
+						"h": 134
+					},
+					"frame": {
+						"x": 1060,
+						"y": 932,
+						"w": 124,
+						"h": 134
+					}
+				},
+				{
+					"filename": "shovelCorrect66.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 569,
+						"y": 63,
+						"w": 114,
+						"h": 136
+					},
+					"frame": {
+						"x": 1176,
+						"y": 349,
+						"w": 114,
+						"h": 136
+					}
+				},
+				{
+					"filename": "shovelCorrect89.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 552,
+						"y": 101,
+						"w": 121,
+						"h": 131
+					},
+					"frame": {
+						"x": 1292,
+						"y": 349,
+						"w": 121,
+						"h": 131
+					}
+				},
+				{
+					"filename": "shovelCorrect63.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 574,
+						"y": 64,
+						"w": 101,
+						"h": 133
+					},
+					"frame": {
+						"x": 1415,
+						"y": 349,
+						"w": 101,
+						"h": 133
+					}
+				},
+				{
+					"filename": "shovelCorrect88.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 554,
+						"y": 102,
+						"w": 119,
+						"h": 128
+					},
+					"frame": {
+						"x": 1518,
+						"y": 347,
+						"w": 119,
+						"h": 128
+					}
+				},
+				{
+					"filename": "shovelCorrect64.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 572,
+						"y": 65,
+						"w": 104,
+						"h": 131
+					},
+					"frame": {
+						"x": 1220,
+						"y": 487,
+						"w": 104,
+						"h": 131
+					}
+				},
+				{
+					"filename": "shovelCorrect8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 597,
+						"y": 57,
+						"w": 87,
+						"h": 121
+					},
+					"frame": {
+						"x": 1326,
+						"y": 482,
+						"w": 87,
+						"h": 121
+					}
+				},
+				{
+					"filename": "shovelCorrect85.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 560,
+						"y": 107,
+						"w": 109,
+						"h": 118
+					},
+					"frame": {
+						"x": 1415,
+						"y": 484,
+						"w": 109,
+						"h": 118
+					}
+				},
+				{
+					"filename": "shovelCorrect60.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 579,
+						"y": 65,
+						"w": 95,
+						"h": 128
+					},
+					"frame": {
+						"x": 1526,
+						"y": 477,
+						"w": 95,
+						"h": 128
+					}
+				},
+				{
+					"filename": "shovelCorrect24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 618,
+						"y": 33,
+						"w": 60,
+						"h": 122
+					},
+					"frame": {
+						"x": 1639,
+						"y": 347,
+						"w": 60,
+						"h": 122
+					}
+				},
+				{
+					"filename": "shovelCorrect84.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 562,
+						"y": 109,
+						"w": 106,
+						"h": 114
+					},
+					"frame": {
+						"x": 1701,
+						"y": 345,
+						"w": 106,
+						"h": 114
+					}
+				},
+				{
+					"filename": "shovelCorrect30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 620,
+						"y": 52,
+						"w": 60,
+						"h": 122
+					},
+					"frame": {
+						"x": 1623,
+						"y": 477,
+						"w": 60,
+						"h": 122
+					}
+				},
+				{
+					"filename": "shovelCorrect22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 617,
+						"y": 35,
+						"w": 63,
+						"h": 121
+					},
+					"frame": {
+						"x": 1685,
+						"y": 471,
+						"w": 63,
+						"h": 121
+					}
+				},
+				{
+					"filename": "shovelCorrect23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 617,
+						"y": 34,
+						"w": 62,
+						"h": 121
+					},
+					"frame": {
+						"x": 1750,
+						"y": 461,
+						"w": 62,
+						"h": 121
+					}
+				},
+				{
+					"filename": "shovelCorrect10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 599,
+						"y": 60,
+						"w": 83,
+						"h": 114
+					},
+					"frame": {
+						"x": 1809,
+						"y": 345,
+						"w": 83,
+						"h": 114
+					}
+				},
+				{
+					"filename": "shovelCorrect71.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 80,
+						"w": 91,
+						"h": 121
+					},
+					"frame": {
+						"x": 1814,
+						"y": 461,
+						"w": 91,
+						"h": 121
+					}
+				},
+				{
+					"filename": "shovelCorrect5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 604,
+						"y": 66,
+						"w": 73,
+						"h": 101
+					},
+					"frame": {
+						"x": 1894,
+						"y": 343,
+						"w": 73,
+						"h": 101
+					}
+				},
+				{
+					"filename": "shovelCorrect26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 619,
+						"y": 35,
+						"w": 60,
+						"h": 121
+					},
+					"frame": {
+						"x": 1969,
+						"y": 345,
+						"w": 60,
+						"h": 121
+					}
+				},
+				{
+					"filename": "shovelCorrect27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 620,
+						"y": 37,
+						"w": 60,
+						"h": 121
+					},
+					"frame": {
+						"x": 1907,
+						"y": 446,
+						"w": 60,
+						"h": 121
+					}
+				},
+				{
+					"filename": "shovelCorrect28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 621,
+						"y": 40,
+						"w": 60,
+						"h": 121
+					},
+					"frame": {
+						"x": 1969,
+						"y": 468,
+						"w": 60,
+						"h": 121
+					}
+				},
+				{
+					"filename": "shovelCorrect25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 618,
+						"y": 34,
+						"w": 61,
+						"h": 121
+					},
+					"frame": {
+						"x": 1078,
+						"y": 640,
+						"w": 61,
+						"h": 121
+					}
+				},
+				{
+					"filename": "shovelCorrect59.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 69,
+						"w": 89,
+						"h": 119
+					},
+					"frame": {
+						"x": 1141,
+						"y": 636,
+						"w": 89,
+						"h": 119
+					}
+				},
+				{
+					"filename": "shovelCorrect9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 598,
+						"y": 58,
+						"w": 85,
+						"h": 118
+					},
+					"frame": {
+						"x": 1232,
+						"y": 620,
+						"w": 85,
+						"h": 118
+					}
+				},
+				{
+					"filename": "shovelCorrect17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 617,
+						"y": 50,
+						"w": 71,
+						"h": 118
+					},
+					"frame": {
+						"x": 1319,
+						"y": 620,
+						"w": 71,
+						"h": 118
+					}
+				},
+				{
+					"filename": "shovelCorrect29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 621,
+						"y": 45,
+						"w": 60,
+						"h": 121
+					},
+					"frame": {
+						"x": 1392,
+						"y": 605,
+						"w": 60,
+						"h": 121
+					}
+				},
+				{
+					"filename": "shovelCorrect18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 617,
+						"y": 46,
+						"w": 70,
+						"h": 119
+					},
+					"frame": {
+						"x": 1454,
+						"y": 604,
+						"w": 70,
+						"h": 119
+					}
+				},
+				{
+					"filename": "shovelCorrect82.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 567,
+						"y": 113,
+						"w": 97,
+						"h": 105
+					},
+					"frame": {
+						"x": 1526,
+						"y": 607,
+						"w": 97,
+						"h": 105
+					}
+				},
+				{
+					"filename": "shovelCorrect11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 600,
+						"y": 60,
+						"w": 81,
+						"h": 114
+					},
+					"frame": {
+						"x": 1625,
+						"y": 601,
+						"w": 81,
+						"h": 114
+					}
+				},
+				{
+					"filename": "shovelCorrect19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 617,
+						"y": 42,
+						"w": 69,
+						"h": 120
+					},
+					"frame": {
+						"x": 1708,
+						"y": 594,
+						"w": 69,
+						"h": 120
+					}
+				},
+				{
+					"filename": "shovelCorrect6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 599,
+						"y": 59,
+						"w": 83,
+						"h": 116
+					},
+					"frame": {
+						"x": 1779,
+						"y": 584,
+						"w": 83,
+						"h": 116
+					}
+				},
+				{
+					"filename": "shovelCorrect14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 608,
+						"y": 58,
+						"w": 76,
+						"h": 116
+					},
+					"frame": {
+						"x": 1864,
+						"y": 584,
+						"w": 76,
+						"h": 116
+					}
+				},
+				{
+					"filename": "shovelCorrect72.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 89,
+						"w": 84,
+						"h": 112
+					},
+					"frame": {
+						"x": 1942,
+						"y": 591,
+						"w": 84,
+						"h": 112
+					}
+				},
+				{
+					"filename": "shovelCorrect20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 617,
+						"y": 39,
+						"w": 67,
+						"h": 120
+					},
+					"frame": {
+						"x": 171,
+						"y": 359,
+						"w": 67,
+						"h": 120
+					}
+				},
+				{
+					"filename": "shovelCorrect12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 601,
+						"y": 60,
+						"w": 80,
+						"h": 114
+					},
+					"frame": {
+						"x": 240,
+						"y": 358,
+						"w": 80,
+						"h": 114
+					}
+				},
+				{
+					"filename": "shovelCorrect75.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 139,
+						"w": 81,
+						"h": 62
+					},
+					"frame": {
+						"x": 240,
+						"y": 474,
+						"w": 81,
+						"h": 62
+					}
+				},
+				{
+					"filename": "shovelCorrect81.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 115,
+						"w": 94,
+						"h": 100
+					},
+					"frame": {
+						"x": 1232,
+						"y": 740,
+						"w": 94,
+						"h": 100
+					}
+				},
+				{
+					"filename": "shovelCorrect13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 604,
+						"y": 59,
+						"w": 79,
+						"h": 115
+					},
+					"frame": {
+						"x": 1328,
+						"y": 740,
+						"w": 79,
+						"h": 115
+					}
+				},
+				{
+					"filename": "shovelCorrect21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 617,
+						"y": 37,
+						"w": 65,
+						"h": 120
+					},
+					"frame": {
+						"x": 1409,
+						"y": 728,
+						"w": 65,
+						"h": 120
+					}
+				},
+				{
+					"filename": "shovelCorrect15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 611,
+						"y": 56,
+						"w": 76,
+						"h": 117
+					},
+					"frame": {
+						"x": 1476,
+						"y": 725,
+						"w": 76,
+						"h": 117
+					}
+				},
+				{
+					"filename": "shovelCorrect31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 615,
+						"y": 63,
+						"w": 61,
+						"h": 117
+					},
+					"frame": {
+						"x": 1554,
+						"y": 714,
+						"w": 61,
+						"h": 117
+					}
+				},
+				{
+					"filename": "shovelCorrect16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 615,
+						"y": 54,
+						"w": 73,
+						"h": 117
+					},
+					"frame": {
+						"x": 1617,
+						"y": 717,
+						"w": 73,
+						"h": 117
+					}
+				},
+				{
+					"filename": "shovelCorrect57.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 98,
+						"w": 75,
+						"h": 88
+					},
+					"frame": {
+						"x": 1140,
+						"y": 842,
+						"w": 75,
+						"h": 88
+					}
+				},
+				{
+					"filename": "shovelCorrect80.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 118,
+						"w": 91,
+						"h": 95
+					},
+					"frame": {
+						"x": 1217,
+						"y": 842,
+						"w": 91,
+						"h": 95
+					}
+				},
+				{
+					"filename": "shovelCorrect73.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 99,
+						"w": 81,
+						"h": 102
+					},
+					"frame": {
+						"x": 1186,
+						"y": 939,
+						"w": 81,
+						"h": 102
+					}
+				},
+				{
+					"filename": "shovelCorrect79.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 121,
+						"w": 88,
+						"h": 88
+					},
+					"frame": {
+						"x": 1310,
+						"y": 857,
+						"w": 88,
+						"h": 88
+					}
+				},
+				{
+					"filename": "shovelCorrect74.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 107,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 1269,
+						"y": 947,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "shovelCorrect32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 607,
+						"y": 77,
+						"w": 60,
+						"h": 105
+					},
+					"frame": {
+						"x": 1352,
+						"y": 947,
+						"w": 60,
+						"h": 105
+					}
+				},
+				{
+					"filename": "shovelCorrect35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 597,
+						"y": 99,
+						"w": 59,
+						"h": 83
+					},
+					"frame": {
+						"x": 1141,
+						"y": 757,
+						"w": 59,
+						"h": 83
+					}
+				},
+				{
+					"filename": "shovelCorrect58.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 91,
+						"w": 79,
+						"h": 95
+					},
+					"frame": {
+						"x": 1692,
+						"y": 717,
+						"w": 79,
+						"h": 95
+					}
+				},
+				{
+					"filename": "shovelCorrect141.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 157,
+						"w": 81,
+						"h": 44
+					},
+					"frame": {
+						"x": 1692,
+						"y": 814,
+						"w": 81,
+						"h": 44
+					}
+				},
+				{
+					"filename": "shovelCorrect142.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 157,
+						"w": 81,
+						"h": 44
+					},
+					"frame": {
+						"x": 1692,
+						"y": 814,
+						"w": 81,
+						"h": 44
+					}
+				},
+				{
+					"filename": "shovelCorrect143.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 157,
+						"w": 81,
+						"h": 44
+					},
+					"frame": {
+						"x": 1692,
+						"y": 814,
+						"w": 81,
+						"h": 44
+					}
+				},
+				{
+					"filename": "shovelCorrect33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 599,
+						"y": 88,
+						"w": 60,
+						"h": 94
+					},
+					"frame": {
+						"x": 1773,
+						"y": 716,
+						"w": 60,
+						"h": 94
+					}
+				},
+				{
+					"filename": "shovelCorrect78.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 124,
+						"w": 85,
+						"h": 82
+					},
+					"frame": {
+						"x": 1835,
+						"y": 702,
+						"w": 85,
+						"h": 82
+					}
+				},
+				{
+					"filename": "shovelCorrect77.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 128,
+						"w": 81,
+						"h": 74
+					},
+					"frame": {
+						"x": 1922,
+						"y": 705,
+						"w": 81,
+						"h": 74
+					}
+				},
+				{
+					"filename": "shovelCorrect76.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 568,
+						"y": 133,
+						"w": 81,
+						"h": 68
+					},
+					"frame": {
+						"x": 1835,
+						"y": 786,
+						"w": 81,
+						"h": 68
+					}
+				},
+				{
+					"filename": "shovelCorrect37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 595,
+						"y": 101,
+						"w": 60,
+						"h": 85
+					},
+					"frame": {
+						"x": 1400,
+						"y": 860,
+						"w": 60,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 597,
+						"y": 95,
+						"w": 60,
+						"h": 87
+					},
+					"frame": {
+						"x": 1414,
+						"y": 947,
+						"w": 60,
+						"h": 87
+					}
+				},
+				{
+					"filename": "shovelCorrect38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 589,
+						"y": 101,
+						"w": 66,
+						"h": 85
+					},
+					"frame": {
+						"x": 1462,
+						"y": 860,
+						"w": 66,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect56.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 100,
+						"w": 72,
+						"h": 86
+					},
+					"frame": {
+						"x": 1476,
+						"y": 947,
+						"w": 72,
+						"h": 86
+					}
+				},
+				{
+					"filename": "shovelCorrect39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1530,
+						"y": 860,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1550,
+						"y": 947,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 72,
+						"h": 85
+					},
+					"frame": {
+						"x": 1603,
+						"y": 836,
+						"w": 72,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 72,
+						"h": 85
+					},
+					"frame": {
+						"x": 1603,
+						"y": 836,
+						"w": 72,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1677,
+						"y": 860,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1750,
+						"y": 860,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1823,
+						"y": 856,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1896,
+						"y": 856,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1623,
+						"y": 947,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1696,
+						"y": 947,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1769,
+						"y": 947,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1769,
+						"y": 947,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect54.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1769,
+						"y": 947,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1842,
+						"y": 943,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1842,
+						"y": 943,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1842,
+						"y": 943,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect55.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 584,
+						"y": 101,
+						"w": 71,
+						"h": 85
+					},
+					"frame": {
+						"x": 1915,
+						"y": 943,
+						"w": 71,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shovelCorrect2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 627,
+						"y": 97,
+						"w": 24,
+						"h": 33
+					},
+					"frame": {
+						"x": 2005,
+						"y": 705,
+						"w": 24,
+						"h": 33
+					}
+				},
+				{
+					"filename": "shovelCorrect3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 619,
+						"y": 86,
+						"w": 41,
+						"h": 57
+					},
+					"frame": {
+						"x": 1988,
+						"y": 781,
+						"w": 41,
+						"h": 57
+					}
+				},
+				{
+					"filename": "shovelCorrect1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 634,
+						"y": 106,
+						"w": 9,
+						"h": 13
+					},
+					"frame": {
+						"x": 1165,
+						"y": 350,
+						"w": 9,
+						"h": 13
+					}
+				},
+				{
+					"filename": "shovelCorrect0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1292,
+						"y": 482,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d7179137b62230c4d2e5b422d6aaf8b9:c1ef7c17b5031ff6d850e41a15de2d76:9db07d6f6cd87f41bc923313567368bf$"
+	}
+}
